@@ -1,0 +1,10 @@
+biopython
+matplotlib
+seaborn
+networkx
+scipy
+numpy
+pandas
+plotly
+pytorch
+torchvision
