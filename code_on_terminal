@@ -1,0 +1,2 @@
+conda activate env_of_interest
+conda install --yes --file txt_file.txt
